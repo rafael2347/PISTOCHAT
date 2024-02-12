@@ -1,0 +1,15 @@
+Entra en la sala A: Rafa
+Rafa~> hola
+Entra en la sala A: Lucia
+Lucia~> hola
+Entra en la sala A: Pepe
+Pepe~> Hola
+Entra en la sala A: Paco
+Paco~> Hola, tantoi hola como la ola
+Sale de la sala A: Paco
+Sale de la sala A: Pepe
+Rafa~> nooooo
+Sale de la sala A: Rafa
+Lucia~> 😊
+Sale de la sala A: Lucia
+

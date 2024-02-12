@@ -1,0 +1,12 @@
+Lucia entró en el chat
+Rafa entró en el chat
+Rafa Hola, como estas Lucia?
+Lucia Muy bien
+Lucia Abandonó el chat 
+Rafa Abandonó el chat 
+RD entró en el chat
+Pepe entró en el chat
+Pepe Hola, comoi estas?
+RD Bien gracias
+RD Abandonó el chat 
+Pepe Abandonó el chat 
